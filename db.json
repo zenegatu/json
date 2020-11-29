@@ -112,62 +112,7 @@
       },
       "nat": "CH"
     },
-    {
-      "gender": "female",
-      "name": {
-        "title": "Miss",
-        "first": "Mauritânia",
-        "last": "Teixeira"
-      },
-      "location": {
-        "street": {
-          "number": 8800,
-          "name": "Avenida Brasil "
-        },
-        "city": "Francisco Morato",
-        "state": "Amapá",
-        "country": "Brazil",
-        "postcode": 19317,
-        "coordinates": {
-          "latitude": "-11.7170",
-          "longitude": "25.1132"
-        },
-        "timezone": {
-          "offset": "+1:00",
-          "description": "Brussels, Copenhagen, Madrid, Paris"
-        }
-      },
-      "email": "mauritania.teixeira@example.com",
-      "login": {
-        "uuid": "c6ade930-c643-4038-9491-7e6aa1100f2f",
-        "username": "orangedog902",
-        "password": "standard",
-        "salt": "6gwHsAsr",
-        "md5": "b860b94081e3d3245f2e7060a2aa5f6e",
-        "sha1": "800b461ff643898b10ac96cd85c6457833ceb99c",
-        "sha256": "20e7b3d63e6b1ea093212e1e2e0d341e30f6404817c1061a0ea64b6b3d915924"
-      },
-      "dob": {
-        "date": "1970-08-13T12:34:49.165Z",
-        "age": 50
-      },
-      "registered": {
-        "date": "2013-03-12T13:44:24.544Z",
-        "age": 7
-      },
-      "phone": "(80) 0010-1144",
-      "cell": "(32) 6070-2777",
-      "id": {
-        "name": "",
-        "value": null
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/9.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
-      },
-      "nat": "BR"
-    },
+  
    
   ],
   "info": {
